@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Akash Debbarma 
+### Hi there 👋 I'm Akash 
 #### A passionate Software Developer.
 
 
